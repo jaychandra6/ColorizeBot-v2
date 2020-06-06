@@ -24,7 +24,7 @@ def colorize(imgUrl):
                           'image': imgUrl,
                           },
                           headers={
-                          'api-key': '0ea33250-d4e6-47ca-a342-f91b5ad373b3'
+                          'api-key': config.deepai_apiKey
                           }
                           )
 
