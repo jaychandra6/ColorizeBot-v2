@@ -1,0 +1,5 @@
+username = "ColorizeBot-v2"
+password = "tacmp5"
+client_id = "N0XHsOxpiIeYPQ"
+client_secret = "9w_xNB18bu6e_C-H5JOWnmJ7twY"
+deepai_apiKey = "0ea33250-d4e6-47ca-a342-f91b5ad373b3"
