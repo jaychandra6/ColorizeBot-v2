@@ -50,7 +50,7 @@ def main():
             submissionUrl=reddit.submission(submissionId).url
             print(submissionUrl)
             time.sleep(2)
-            if ".jpg" or ".png" in submissionUrl and submissionUrl not in cache:
+            if (".jpg" in submissionUrl or ".png" in submissionUrl) and submissionUrl not in cache:
                 colorizedImgUrl = colorize(submissionUrl)
                 time.sleep(3)
                 print("replying to author")
