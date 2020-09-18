@@ -6,3 +6,5 @@ edit config.py file with your credentials
 register on deepai to get your api key for colorization
 
 run the script and mention the account username anywhere on reddit
+
+I wanted to explore more about API's, so I made this bot.
